@@ -1,3 +1,4 @@
-#Le Mask
+# Le Mask
 
-I decided some time mid-February, during(?) the Steal The Spotlight event, that I liked the mask+hood cosmetics of the set far too much to not try to make one for myself. Having recently aquired a 3D printer, and having been recommended a video about how to use Blender to model characters from illustrations, I decided to take a gander at making one of these masks for myself!
+I decided some time mid-February, during(?) the Steal The Spotlight event, that I liked the mask+hood cosmetics of the set far too much to not try to make one for myself. Having recently aquired a 3D printer, and having been recommended a [video](https://www.youtube.com/watch?v=NMsPeLfKPa0) about how to use Blender to model characters from illustrations, I decided to take a gander at making one of these masks for myself!
+
